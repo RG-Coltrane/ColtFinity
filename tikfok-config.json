@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "status": "active",
+  "connectionSettings": {
+    "requestTimeout": 5000,
+    "enableBypass": true
+  },
+  "announcement": "Welcome to Coltfinity! Systems are fully operational."
+}
