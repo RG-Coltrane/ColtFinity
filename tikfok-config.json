@@ -8,6 +8,6 @@
   "announcement": "Welcome to Coltfinity! Gift sound alerts are now live.",
   "giftTriggers": {
     "Rose": "http://localhost:3000/sounds/rose.mp3",
-    "TikTok": "http://localhost:3000/sounds/rose.mp3"
+    "TikTok": "http://localhost:3000/sounds/gg.mp3"
   }
 }
