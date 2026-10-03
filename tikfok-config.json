@@ -1,9 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "status": "active",
   "connectionSettings": {
     "requestTimeout": 5000,
     "enableBypass": true
   },
-  "announcement": "Welcome to Coltfinity! Systems are fully operational."
+  "announcement": "Welcome to Coltfinity! Gift sound alerts are now live.",
+  "giftTriggers": {
+    "Rose": "http://localhost:3000/sounds/rose.mp3",
+    "TikTok": "http://localhost:3000/sounds/rose.mp3"
+  }
 }
